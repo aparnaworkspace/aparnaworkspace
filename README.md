@@ -1,7 +1,5 @@
 <!-- TOP BANNER -->
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7c8a268b-e7d6-4363-aec9-f956eebbc8c9" />
-
----
+<img width="1585" height="635" alt="banner" src="https://github.com/user-attachments/assets/3a627cf9-091c-408e-a935-697108ebfd1e" />
 
 ## 👩‍💻 About Me
 
@@ -13,8 +11,6 @@ I specialize in:
 - OCR + NLP pipelines for automated structured data extraction  
 - AI for nutrition and personalised health insights  
 - Full-stack ML deployments (Streamlit, FastAPI, Flask)
-
----
 
 ## 🎯 Technical Focus Areas
 
@@ -36,8 +32,6 @@ I specialize in:
 </tr>
 </table>
 </div>
-
----
 
 ## 🛠️ Tech Stack 
 
@@ -78,8 +72,6 @@ Git · Docker · Jupyter · VS Code
 </tr>
 </table>
 </div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -126,8 +118,6 @@ OCR + NLP pipeline for accurate structured data extraction from unstructured doc
 </table>
 </div>
 
----
-
 ## 📊 GitHub Snapshot
 
 <p align="center">
@@ -138,8 +128,6 @@ OCR + NLP pipeline for accurate structured data extraction from unstructured doc
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aparnaworkspace&theme=tokyonight&hide_border=true">
 </p>
-
----
 
 ## 📫 Connect
 
@@ -153,5 +141,4 @@ OCR + NLP pipeline for accurate structured data extraction from unstructured doc
 </a>
 </p>
 
----
 
