@@ -3,7 +3,7 @@
   <img src="assets/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm <strong>Ms. Billionaire</strong> ✨</h1>
+<h1 align="center">Hi, I'm <strong>Aparna Sajeevan/strong> ✨</h1>
 <p align="center">
   <strong>AI & Healthcare Informatics | Machine Learning & Deep Learning | Software Developer</strong>
 </p>
