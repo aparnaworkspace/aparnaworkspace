@@ -1,5 +1,6 @@
 <!-- TOP BANNER -->
 <img width="1585" height="635" alt="banner" src="https://github.com/user-attachments/assets/3a627cf9-091c-408e-a935-697108ebfd1e" />
+<h2 align="center">✨ Hey there — welcome to my workspace</h2>
 
 ## 👩‍💻 About Me
 
