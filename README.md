@@ -1,8 +1,5 @@
 <!-- TOP BANNER -->
-<img width="1574" height="565" alt="banner02" src="https://github.com/user-attachments/assets/cde2b0e1-5f84-4089-8cfc-8efccb1456c4" />
-
-<h1 align="center">Hey There, Aparna Sajeevan</h1>
-<p align="center">Healthcare Informatics • Machine Learning • Full-Stack AI Systems</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7c8a268b-e7d6-4363-aec9-f956eebbc8c9" />
 
 ---
 
