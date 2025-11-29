@@ -3,84 +3,79 @@
   <img src="assets/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm <strong>Aparna Sajeevan</strong> ✨</h1>
+<h1 align="center">Aparna Sajeevan</h1>
 <p align="center">
-  <strong>AI & Healthcare Informatics | Machine Learning & Deep Learning | Software Developer</strong>
+  Healthcare Informatics • Machine Learning • Full-Stack AI Systems
 </p>
-
-<br/>
 
 ---
 
 ## 👩‍💻 About Me
-I'm a final-year Computer Science student specializing in **Healthcare Informatics**, passionate about building impactful solutions at the intersection of **AI, ML, and data-driven healthcare**.
+I design and build end-to-end AI systems for healthcare, covering the full workflow from data preprocessing and model development to evaluation and deployment. My focus is on creating reliable, high-impact ML solutions that convert real-world clinical and wellness data into actionable diagnostic intelligence.
 
-I enjoy translating real-world problems into clean, functional systems — whether it's predictive ML models, analytical dashboards, or full-stack apps.  
-Focused, disciplined, and committed to producing work that is both elegant and practical.
+My current work and interests include:
+- Diagnostic support systems (Autism screening, Alzheimer’s MRI classification, medical imaging pipelines)
+- OCR and NLP pipelines for document understanding and structured information extraction
+- AI for nutrition and personalised health insights
+- Full-stack ML deployments using Streamlit, FastAPI, and Flask
 
-🔭 **Current Work**
-- Autism Detection Support System (ML/DL + Explainability)
-- Alzheimer’s MRI Classification (CNN)
-- Nutrigen: Nutrition Intelligence App
-- AI Document Parser (OCR + NLP)
+---
 
-🌱 **Learning & Growing In**
+## 🎯 Technical Focus Areas
 - Deep Learning Architectures  
 - Computer Vision  
-- FastAPI, Flask  
-- Cloud Fundamentals (AWS / Azure)
+- Production-ready FastAPI Services  
+- Cloud Fundamentals (AWS / Azure)  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,c" />
-</p>
+### Languages  
+Python · JavaScript  
 
-### **AI / ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-</p>
+### AI / ML  
+Scikit-learn · TensorFlow · PyTorch · XGBoost · SHAP  
+Pandas · NumPy · OpenCV · Tesseract OCR · SpaCy  
 
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+### Frontend  
+HTML · CSS · Streamlit  
 
-### **Backend & APIs**
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs" />
-</p>
+### Backend  
+FastAPI · Flask  
 
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
+### Tools  
+Git · Docker · Jupyter · VS Code  
 
 ---
 
-## 📁 Featured Projects
+## 🚀 Featured Projects
 
-🔹 **Autism Detection Support System**  
-ML/DL pipeline for autism prediction, deployed with Streamlit + SHAP explainability.
-
-🔹 **Nutrigen – Nutrition Intelligence App**  
-ML-powered personalized nutrition insights with interactive UI.
-
-🔹 **Alzheimer’s MRI Classifier**  
-CNN-based diagnostic model for early-stage MRI classification.
-
-🔹 **AI Document Parser**  
-OCR + NLP pipeline to extract structured data from unstructured documents.
-
-👉 _Pinned repositories below showcase in-depth work._
+### Autism Detection Support System  
+End-to-end ML pipeline with SHAP explainability and a fully deployed Streamlit interface.  
+**Tech:** Scikit-learn · CNN · SHAP · Streamlit  
 
 ---
 
-## 📊 GitHub Analytics
+### Nutrigen — Nutrition Intelligence App  
+ML-driven personalised nutrition insights, macro analysis, and an interactive UI.  
+**Tech:** Scikit-learn · Pandas · Streamlit  
+
+---
+
+### Alzheimer’s MRI Classifier  
+CNN-based diagnostic model for early-stage MRI classification.  
+**Tech:** TensorFlow · CNN  
+
+---
+
+### AI Document Parser  
+OCR + NLP pipeline engineered for accurate extraction of structured fields from unstructured documents.  
+**Tech:** Tesseract · SpaCy · FastAPI  
+
+---
+
+## 📊 GitHub Snapshot
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=aparnaworkspace&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -93,24 +88,17 @@ OCR + NLP pipeline to extract structured data from unstructured documents.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/aparnasajeevan1610">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
-
 &nbsp;&nbsp;
-
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:aparnasajeevan16@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
-
 </p>
 
 ---
 
-<p align="center">
-  <img src="assets/footer.png" width="100%" />
-</p>
