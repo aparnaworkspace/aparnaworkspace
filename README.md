@@ -142,4 +142,5 @@ OCR + NLP pipeline for accurate structured data extraction from unstructured doc
 </a>
 </p>
 
+<p align="center"><i>Always Learning.Always Building.</i></p>
 
