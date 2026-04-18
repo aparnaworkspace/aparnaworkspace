@@ -75,7 +75,7 @@ aparna = {
 ### 🗺️ HealthLens India
 **District Health Intelligence Platform**
 
-[![Live App](https://img.shields.io/badge/Live%20App-1D9E75?style=flat-square&logo=streamlit&logoColor=white)](YOUR_APP_LINK)
+[![Live App](https://img.shields.io/badge/Live%20App-1D9E75?style=flat-square&logo=streamlit&logoColor=white)](https://india-health-intelligence.streamlit.app)
 
 Public health analytics on NFHS-5 data · **700+ districts · 100+ indicators**
 - Composite risk scoring (anaemia, vaccination, stunting, births)
@@ -90,7 +90,7 @@ Public health analytics on NFHS-5 data · **700+ districts · 100+ indicators**
 ### 🛡️ Health Insurance Fraud Detector
 **Interpretable ML Risk Scoring**
 
-[![Live App](https://img.shields.io/badge/Live%20App-534AB7?style=flat-square&logo=streamlit&logoColor=white)](YOUR_APP_LINK)
+[![Live App](https://img.shields.io/badge/Live%20App-534AB7?style=flat-square&logo=streamlit&logoColor=white)](https://fraud-detection-mm24vn8vupbdnps6amvr5q.streamlit.app)
 
 ML fraud detection on **500K+ claims dataset**
 - 14+ engineered behavioural features from raw claims
