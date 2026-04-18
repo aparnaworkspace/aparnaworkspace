@@ -23,14 +23,24 @@
 
 I design and build end-to-end AI systems for **healthcare and public health** — spanning data pipelines, model development, evaluation, and deployment. My work focuses on translating clinical, insurance, and wellness data into reliable, actionable intelligence.
 
-```python
-aparna = {
-    "focus"     : ["Health Analytics", "Interpretable ML", "RAG Pipelines", "ML Deployment"],
-    "stack"     : ["Python", "Scikit-learn", "LangChain", "FAISS", "Streamlit", "FastAPI"],
-    "currently" : "Building MedQuery AI — RAG for medical document intelligence",
-    "open_to"   : "Data Analyst · ML Engineer · Healthcare AI roles"
-}
-```
+<table>
+<tr>
+<td>🔬 <b>Currently building</b></td>
+<td>MedQuery AI — RAG for medical document intelligence</td>
+</tr>
+<tr>
+<td>💼 <b>Open to</b></td>
+<td>Data Analyst · ML Engineer · Healthcare AI roles</td>
+</tr>
+<tr>
+<td>🎓 <b>Education</b></td>
+<td>B.Tech CSE (Health Informatics) · VIT Bhopal · CGPA 8.4</td>
+</tr>
+<tr>
+<td>📍 <b>Based in</b></td>
+<td>Mumbai, India</td>
+</tr>
+</table>
 
 ---
 
