@@ -4,13 +4,12 @@
 
 ## 👩‍💻 About Me
 
-I design and build end-to-end AI systems for healthcare — spanning data pipelines, model development, evaluation, and deployment. My work focuses on translating clinical and wellness data into reliable, actionable diagnostic intelligence.
+I design and build end-to-end AI systems for healthcare and public health — spanning data pipelines, model development, evaluation, and deployment. My work focuses on translating clinical, insurance, and wellness data into reliable, actionable intelligence.
 
 I specialize in:
-
-- Diagnostic support systems (Autism screening, Alzheimer’s MRI classification, medical imaging pipelines)
-- OCR + NLP pipelines for automated structured data extraction  
-- AI for nutrition and personalised health insights  
+- Health analytics platforms and district-level public health risk intelligence
+- Fraud detection systems with interpretable ML (SHAP)
+- RAG pipelines for medical document intelligence
 - Full-stack ML deployments (Streamlit, FastAPI, Flask)
 
 ## 🎯 Technical Focus Areas
@@ -20,24 +19,24 @@ I specialize in:
 <tr>
 <td width="45%" valign="top">
 
-- Deep Learning Architectures  
-- Computer Vision  
+- Health Analytics & Risk Scoring
+- Interpretable ML with SHAP
 
 </td>
 <td width="45%" valign="top">
 
-- Production-ready FastAPI Services  
-- Cloud Fundamentals (AWS / Azure)  
+- RAG & LLM Pipelines (LangChain · FAISS)
+- ML Deployment (Streamlit · FastAPI)
 
 </td>
 </tr>
 </table>
 </div>
 
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,tensorflow,pytorch,sklearn,fastapi,flask,opencv,docker,git&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,java,sklearn,fastapi,flask,streamlit,git,aws,vscode,jupyter&theme=dark" height="50"/>
 </p>
 
 <div align="center">
@@ -45,29 +44,29 @@ I specialize in:
 <tr>
 <td valign="top" width="30%">
 
-### Languages  
-Python · JavaScript  
+### Languages
+Python · SQL · Java
 
-### Frontend  
-HTML · CSS · Streamlit  
-
-</td>
-<td valign="top" width="30%">
-
-### AI / ML  
-Scikit-learn · TensorFlow · PyTorch  
-XGBoost · SHAP  
-Pandas · NumPy  
-OpenCV · Tesseract OCR · SpaCy  
+### Dashboarding
+Streamlit · Power BI · Plotly · Matplotlib
 
 </td>
 <td valign="top" width="30%">
 
-### Backend  
-FastAPI · Flask  
+### AI / ML
+Scikit-learn · XGBoost · SHAP
+LangChain · FAISS
+Pandas · NumPy
+Sentence Transformers
 
-### Tools  
-Git · Docker · Jupyter · VS Code  
+</td>
+<td valign="top" width="30%">
+
+### Backend
+FastAPI · Flask
+
+### Tools
+Git · AWS (Basics) · Jupyter · VS Code
 
 </td>
 </tr>
@@ -82,39 +81,37 @@ Git · Docker · Jupyter · VS Code
 <tr>
 <td width="48%" valign="top">
 
-### Autism Detection Support System  
-End-to-end ML pipeline with SHAP explainability and Streamlit deployment.  
-**Tech:** Scikit-learn · CNN · SHAP · Streamlit  
+### 🗺️ HealthLens India — District Health Intelligence
+Public health analytics platform on NFHS-5 data across 700+ districts and 100+ indicators. Composite risk scoring + Random Forest classifier (~95% accuracy) with an interactive policy dashboard.
+
+**Tech:** Scikit-learn · Pandas · Plotly · Streamlit
 
 </td>
 <td width="48%" valign="top">
 
-### Nutrigen – Nutrition Intelligence  
-ML-powered personalised nutrition insights with macro analysis and an interactive UI.  
-**Tech:** Scikit-learn · Pandas · Streamlit  
+### 🛡️ Health Insurance Fraud Detection
+Interpretable fraud risk scoring on 500K+ claims. 14+ engineered behavioural features, SHAP explainability for stakeholders, and a real-time dashboard with batch CSV prediction.
+
+**Tech:** Scikit-learn · SHAP · Pandas · Streamlit
 
 </td>
 </tr>
-
 <!-- ROW 2 -->
 <tr>
-
 <td width="48%" valign="top">
 
-### Alzheimer’s MRI Classifier  
-CNN-based model for early-stage MRI diagnostic classification.  
-**Tech:** TensorFlow · CNN  
+### 🧠 MedQuery AI — RAG Medical Document Intelligence
+End-to-end RAG pipeline to query medical documents with source-backed responses. Optimised retrieval via chunking + sentence-transformer embeddings, with confidence-based hallucination fallback.
+
+**Tech:** LangChain · FAISS · Sentence Transformers · FastAPI
 
 </td>
-
 <td width="48%" valign="top">
 
-### AI Document Parser  
-OCR + NLP pipeline for accurate structured data extraction from unstructured documents.  
-**Tech:** Tesseract · SpaCy · FastAPI  
+### 📋 Coming Soon
+Next project in progress — check back soon.
 
 </td>
-
 </tr>
 </table>
 </div>
@@ -125,7 +122,6 @@ OCR + NLP pipeline for accurate structured data extraction from unstructured doc
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=aparnaworkspace&show_icons=true&theme=tokyonight&hide_border=true">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparnaworkspace&layout=compact&theme=tokyonight&hide_border=true">
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aparnaworkspace&theme=tokyonight&hide_border=true">
 </p>
@@ -137,10 +133,9 @@ OCR + NLP pipeline for accurate structured data extraction from unstructured doc
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:aparnasajeevan16@gmail.com">
+<a href="mailto:aparnasajeevan02@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 </p>
 
-<p align="center"><i>Always Learning.Always Building.</i></p>
-
+<p align="center"><i>Always Learning. Always Building.</i></p>
