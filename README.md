@@ -5,10 +5,9 @@
 
 <!-- ANIMATED TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Healthcare+AI+%C2%B7+Public+Health+Analytics;RAG+Pipelines+%C2%B7+Interpretable+ML;Always+Learning.+Always+Building." />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aparnaworkspace&style=flat-square&color=1D9E75" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Hey+there+%E2%9C%A8+welcome+to+my+workspace;Healthcare+AI+%C2%B7+Public+Health+Analytics;RAG+Pipelines+%C2%B7+Interpretable+ML;Always+Learning.+Always+Building." alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- PROFILE VIEWS + WAVE -->
